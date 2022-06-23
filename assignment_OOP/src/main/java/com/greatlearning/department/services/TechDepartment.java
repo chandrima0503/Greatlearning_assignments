@@ -1,6 +1,6 @@
 package com.greatlearning.department.services;
 
-class TechDepartment extends SuperDepartment{
+public class TechDepartment extends SuperDepartment{
 	
 	public String departmentName()						//overrides the departmentName()
 	{

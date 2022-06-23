@@ -1,6 +1,6 @@
 package com.greatlearning.department.services;
 
-class SuperDepartment {
+public class SuperDepartment {
 	
 	public String departmentName()
 	{

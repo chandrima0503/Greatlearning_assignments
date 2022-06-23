@@ -1,6 +1,6 @@
 package com.greatlearning.department.services;
 
-class HrDepartment extends SuperDepartment{
+public class HrDepartment extends SuperDepartment{
 	
 	public String departmentName()
 	{
