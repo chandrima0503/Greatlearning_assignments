@@ -6,8 +6,6 @@ import com.greatlearning.department.services.*;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 		HrDepartment hrdepartment = new HrDepartment();
 		TechDepartment techdepartment = new TechDepartment();
 		AdminDepartment admindepartment = new AdminDepartment();

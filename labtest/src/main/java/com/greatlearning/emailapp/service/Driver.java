@@ -17,18 +17,18 @@ public class Driver {
         int dpt= sc.nextInt();//Scanner class to take department as user input
         String department ="";
         switch (dpt) {//switch case sets strings based on user input
-        case 1:
-            department = "technical";
-            break;
-        case 2:
-            department = "admin";
-            break;
-        case 3:
-           department = "humanresources";
-            break;
-        case 4:
-            department = "legal";
-            break;
+	        case 1:
+	            department = "technical";
+	            break;
+	        case 2:
+	            department = "admin";
+	            break;
+	        case 3:
+	           department = "humanresources";
+	            break;
+	        case 4:
+	            department = "legal";
+	            break;
         }
         sc.close();
         
